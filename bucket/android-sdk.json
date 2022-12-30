@@ -1,5 +1,5 @@
 {
-    "version": "4333796",
+    "version": "9123335",
     "description": "A component for the Android SDK, which includes the complete set of development and debugging tools for Android.",
     "homepage": "https://developer.android.com/studio/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://developer.android.com/studio/terms.html"
     },
     "depends": "adb",
-    "url": "https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip",
-    "hash": "7e81d69c303e47a4f0e748a6352d85cd0c8fd90a5a95ae4e076b5e5f960d3c7a",
+    "url": "https://dl.google.com/android/repository/commandlinetools-win-9123335_latest.zip",
+    "hash": "8a90e6a3deb2fa13229b2e335efd07687dcc8a55a3c544da9f40b41404993e7d",
     "bin": [
         "tools\\proguard\\bin\\proguard.bat",
         "tools\\proguard\\bin\\proguardgui.bat",
